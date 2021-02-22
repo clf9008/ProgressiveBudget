@@ -61,4 +61,4 @@ function checkDatabase() {
 }
 
 //Event listener listening for when the app comes back online
-window.addEventListener("online", che
+window.addEventListener("online", checkDatabase);
