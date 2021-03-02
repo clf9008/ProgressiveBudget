@@ -6,20 +6,19 @@ Progressive Budget application for use online/offline
 ## Usage
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-## Table of contents
-- [General Info](#Info)
-- [Dependencies](#Dependencies)
-- [Technologies](#Technologies)
-
-# General Info
-
-### What is Progressive Web Application?
-- A Progressive Web App (PWA) is a web app that uses modern web capabilities to deliver an app-like experience to users. These apps meet certain requirements (see below), are deployed to servers, accessible through URLs, and indexed by search engines.
+### Table of contents
+- [Usage](#Usage)
+- [Offline Support](#Offline Support)
+- [Functionality](#Functionality)
+- [Install](#Install)
+- [Technology](#Technology)
+- [Application Preview](#Application Preview)
+- -[Deployed Application](#Deployed Application)
 
 #### Offline Support
 - Apps should be able to work offline. Whether that be displaying a proper "offline" message or caching app data for display purpose.
 
-# Functionality 
+##### Functionality 
 
 Offline Functionality:
 - Enter deposits offline
@@ -28,26 +27,10 @@ Offline Functionality:
 When brought back online:
 - Offline entries should be added to tracker.
 
-# Install
+###### Install
 - npm i install
 
-- npm i express
-
-- npm i mongoose
-
-# Dependencies
-``` bash
-"dependencies": {
-    "express": "^4.17.1",
-    "install": "^0.13.0",
-    "mongodb": "^3.5.5",
-    "mongoose": "^5.9.7",
-    "nodemon": "^2.0.2"
-  }
-
-```
-
-# Technologies
+###### Technologies
 - HTML5
 - CSS
 - jQuery
@@ -56,5 +39,9 @@ When brought back online:
 - Mongoose
 - IndexedDB
 
-##### Application Preview
+#### Application Preview
 ![App Demo](https://github.com/clf9008/ProgressiveBudget/blob/main/public/icons/BudgetTracker.gif.gif)
+
+##### Deployed Application
+
+[Progressive Budget Application](https://clf9008progressivebudget.herokuapp.com/?)
