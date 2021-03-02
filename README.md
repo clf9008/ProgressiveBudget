@@ -8,12 +8,12 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ### Table of contents
 - [Usage](#Usage)
-- [Offline Support](#Offline Support)
+- [Offline Support](#OfflineSupport)
 - [Functionality](#Functionality)
 - [Install](#Install)
 - [Technology](#Technology)
-- [Application Preview](#Application Preview)
-- [Deployed Application](#Deployed Application)
+- [Application Preview](#Application)
+- [Deployed Application](#DeployedApplication)
 
 #### Offline Support
 - Apps should be able to work offline. Whether that be displaying a proper "offline" message or caching app data for display purpose.
