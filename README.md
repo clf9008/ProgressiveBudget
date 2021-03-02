@@ -8,12 +8,12 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ### Table of contents
 - [Usage](#Usage)
-- [Offline Support](#Offline Support)
+- [Offline Support](#OfflineSupport)
 - [Functionality](#Functionality)
 - [Install](#Install)
 - [Technology](#Technology)
-- [Application Preview](#Application Preview)
-- -[Deployed Application](#Deployed Application)
+- [Application Preview](#ApplicationPreview)
+- [Deployed Application](#DeployedApplication)
 
 #### Offline Support
 - Apps should be able to work offline. Whether that be displaying a proper "offline" message or caching app data for display purpose.
@@ -27,10 +27,10 @@ Offline Functionality:
 When brought back online:
 - Offline entries should be added to tracker.
 
-###### Install
+##### Install
 - npm i install
 
-###### Technologies
+##### Technologies
 - HTML5
 - CSS
 - jQuery
@@ -39,7 +39,7 @@ When brought back online:
 - Mongoose
 - IndexedDB
 
-#### Application Preview
+##### Application Preview
 ![App Demo](https://github.com/clf9008/ProgressiveBudget/blob/main/public/icons/BudgetTracker.gif.gif)
 
 ##### Deployed Application
