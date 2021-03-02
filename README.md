@@ -55,3 +55,6 @@ When brought back online:
 - MongoDB
 - Mongoose
 - IndexedDB
+
+##### Application Preview
+![App Demo](https://github.com/clf9008/ProgressiveBudget/blob/main/public/icons/BudgetTracker.gif.gif)
